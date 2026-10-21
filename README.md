@@ -1,6 +1,4 @@
-# 6 Studi Kasus Informatics Practitioner Lecture Series 2026 — Versi Teman
-
-Paket **berbeda dari versi pertama**, disusun berdasarkan enam topik pemateri. Data seluruhnya **sintetis / ilustratif**, sehingga hasil latihan tidak boleh ditafsirkan sebagai temuan penelitian nyata.
+ 6 Studi Kasus Informatics Practitioner Lecture Series 2026
 
 | No | Materi pemateri | Studi kasus versi ini | File |
 |---|---|---|---|
